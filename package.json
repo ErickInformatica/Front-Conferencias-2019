@@ -23,7 +23,7 @@
     "core-js": "^2.5.4",
     "font-awesome": "^4.7.0",
     "html2canvas": "^1.0.0-rc.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jspdf": "^1.5.3",
     "ngx-qrcode2": "0.0.9",
     "popper.js": "^1.15.0",
